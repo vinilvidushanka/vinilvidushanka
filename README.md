@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Vinil Vidushanka</h1>
+### Hi there 👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&color=2ED573&width=1000&lines=-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Vinil+Vidushanka;IJSE-+%F0%9F%91%8B%2C+Institute+of+Software+Engineering;)](https://git.io/typing-svg)
+
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinilvidushanka&label=Profile%20views&color=0e75b6&style=flat" alt="vinilvidushanka" /> </p>
@@ -12,17 +16,71 @@
 
 - 📫 How to reach me **vidushankav@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
+<div align="center">
+
+<h3 align="center">
+  Profile 3D Contributions 🔰
+</h3>
+
+
+
+<img alt="Coding" width="900" src="https://github.com/NimeshPiyumantha/red-alpha/blob/main/github-contribution-grid-snake.svg">
+
+
+## 🔥 Streak Stats
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vinilvidushanka&theme=monokai)
+<br>
+
+<br>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+<p align="center">
 <a href="https://linkedin.com/in/vinil vidushanka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinil vidushanka" height="30" width="40" /></a>
 <a href="https://fb.com/විනිල් විදුශංක" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="විනිල් විදුශංක" height="30" width="40" /></a>
 </p>
+<br>
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+## 🛠️ My Skills
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinilvidushanka&show_icons=true&locale=en&layout=compact" alt="vinilvidushanka" /></p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=2ED573&width=200&lines=Languages+and+Tools%3A)](https://git.io/typing-svg)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinilvidushanka&show_icons=true&locale=en" alt="vinilvidushanka" /></p>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>&nbsp;&nbsp;&nbsp; </a>
+<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="slack" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
+<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=github" alt="slack" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
+<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=css" alt="slack" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
+<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=jquery" alt="slack" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
+<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=js" alt="slack" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
+<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=java" alt="slack" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
+<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=html" alt="slack" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
+  <a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
+<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=hibernate" alt="hibernate" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinilvidushanka&" alt="vinilvidushanka" /></p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=2ED573&width=150&lines=My+Tool%3A)](https://git.io/typing-svg)
+
+<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
+<a href="https://gluonhq.com/products/scene-builder/" target="_blank"> <img src="https://i2.wp.com/gluonhq.com/wp-content/uploads/2015/02/SceneBuilderLogo.png?fit=781%2C781&ssl=1" width="50" height="50"/>&nbsp;&nbsp;&nbsp;</a>
+<a href="https://www.google.com/chrome" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original-wordmark.svg" alt="chrome" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
+<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
+<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
+<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
+<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
+<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=py" alt="py" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
+<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
+<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
+<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=hibernate" alt="hibernate" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
+<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=idea" alt="idea" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
+<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=ps" alt="ps" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5000&color=2ED573&width=600&lines=-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+)](https://git.io/typing-svg)
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinilvidushanka&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="vinilvidushanka" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinilvidushanka&show_icons=true&locale=en&theme=tokyonight" alt="vinilvidushanka" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinilvidushanka&theme=tokyonight" alt="vinilvidushanka" /></p>
