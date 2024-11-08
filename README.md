@@ -83,4 +83,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinilvidushanka&show_icons=true&locale=en&theme=tokyonight" alt="vinilvidushanka" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinilvidushanka&theme=tokyonight" alt="vinilvidushanka" /></p>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vinilvidushanka&theme=tokyonight" />
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
