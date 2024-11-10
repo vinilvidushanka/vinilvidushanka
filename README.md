@@ -1,14 +1,19 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center"><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 200px /></div>
+
 ### Hi there 👋
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&color=2ED573&width=1000&lines=-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Vinil+Vidushanka;IJSE-+%F0%9F%91%8B%2C+Institute+of+Software+Engineering;)](https://git.io/typing-svg)
 
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinilvidushanka&label=Profile%20views&color=0e75b6&style=flat" alt="vinilvidushanka" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vinilvidushanka&label=Profile%20views&color=0e75b6&style=flat" alt="vinilvidushanka" /> </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinilvidushanka&theme=tokyonight" alt="vinilvidushanka" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinilvidushanka&theme=tokyonight" alt="vinilvidushanka" /></a> </p>
 
 - 🌱 I’m currently learning **Java , html , css , js**
 
@@ -76,6 +81,8 @@
 <a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=ps" alt="ps" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
 
 
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5000&color=2ED573&width=600&lines=-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+)](https://git.io/typing-svg)
 
 
@@ -84,6 +91,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinilvidushanka&show_icons=true&locale=en&theme=tokyonight" alt="vinilvidushanka" /></p>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vinilvidushanka&theme=tokyonight" />
+
+#
+
+![footer](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/footer.webp)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
