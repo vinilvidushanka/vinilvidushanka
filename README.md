@@ -17,8 +17,6 @@
 
 - 🌱 I’m currently learning **Java , html , css , js**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-vinil-vidushanka.web.app](https://my-portfolio-vinil-vidushanka.web.app)
-
 - 📫 How to reach me **vidushankav@gmail.com**
 
 
