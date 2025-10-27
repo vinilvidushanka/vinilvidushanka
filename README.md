@@ -77,6 +77,8 @@
 <a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=jquery" alt="slack" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
 <a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=js" alt="slack" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
 <a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=java" alt="slack" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
+<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=php" alt="slack" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
+<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=laravel" alt="slack" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
 <a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=html" alt="slack" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
   <a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
 <a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=hibernate" alt="hibernate" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a>
