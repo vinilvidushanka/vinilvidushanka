@@ -3,6 +3,16 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" width="800"/>
 </p>
 
+<div align="center">
+  <img 
+    src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+    width="300px" 
+    alt="Developer GIF" 
+    style="border: 5px solid #00f2ff; border-radius: 15px;"
+  />
+</div>
+
+
 
 <h1 align="center">
   <span style="color:#00f2ff;">Vinil Vidushanka</span>
