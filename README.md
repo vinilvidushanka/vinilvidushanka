@@ -1,24 +1,24 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Animated Header Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="800"/>
+</p>
 
-<div align="center"><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 200px /></div>
 
-### Hi there 👋
+<h1 align="center">
+  <span style="color:#00f2ff;">Vinil Vidushanka</span>
+</h1>
 
+<h3 align="center">
+  Full-Stack Developer Intern @ Red Code Solution
+</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&color=2ED573&width=1000&lines=-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Vinil+Vidushanka;IJSE-+%F0%9F%91%8B%2C+Institute+of+Software+Engineering;)](https://git.io/typing-svg)
-
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=23&color=22F7E6&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Java+%7C+Spring+Boot+%7C+Laravel;React+%7C+Node.js+%7C+REST+APIs;Clean+Code+%7C+Modern+UI+Design;Tech+Lover+%7C+Fast+Learner"/>
+</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vinilvidushanka&label=Profile%20views&color=0e75b6&style=flat" alt="vinilvidushanka" /> </p>
 
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinilvidushanka&theme=tokyonight" alt="vinilvidushanka" /></a> </p>
-
-- 🌱 I’m currently learning **Java , html , css , js**
-
-- 📫 How to reach me **vidushankav@gmail.com**
-
 
 <div align="center">
 
@@ -30,92 +30,75 @@
 
 <img alt="Coding" width="900" src="https://github.com/NimeshPiyumantha/red-alpha/blob/main/github-contribution-grid-snake.svg">
 
+</div>
 
-## 🔥 Streak Stats
+---
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vinilvidushanka&theme=monokai)
-<br>
+## ✨ About Me
 
-<br>
+Hi! I'm **Vinil Vidushanka**, a passionate **Full-Stack Developer Intern** working at **Red Code Solution**.  
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+- 🎯 Building modern, scalable web applications  
+- 💻 Crafting **clean UI & smooth UX**  
+- ⚡ Problem solver & lifelong learner  
+- 🌱 Currently exploring **Microservices & Cloud Tech**  
+
+---
+  <h1 align="center">⚡ Tech Stack & Tools</h1>
+
+<h3 align="center">🖥 Languages</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,php,py"/>
+</p>
+
+<h3 align="center">🔧 Backend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,laravel,nodejs,express,mysql,postgres"/>
+</p>
+
+<h3 align="center">🎨 Frontend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind,jquery"/>
+</p>
+
+<h3 align="center">🛠 Tools & DevOps</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,idea,vscode,linux"/>
+</p>
+
+---
+
+<h2 align="center"> 📊 GitHub Stats</h2>
 
 <p align="center">
-      <br/>
-      <a href="https://linkedin.com/in/vinil vidushanka" target="blank"><img align="center"
-         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="vinil vidushanka" height="30"/></a>
-      <a href="https://fb.com/විනිල් විදුශංක" target="blank"><img align="center"
-         src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
-         alt="විනිල් විදුශංක" height="30"/></a>
-      <a href="vidushankav@gmail.com" target="blank"><img align="center"
-         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="vinil vidushanka" height="30"/></a>
-    </p>
-  <p align="center">
-      <a href="https://instagram.com/azzar_budiyanto" target="blank"><img align="center"
-         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <a href="https://wa.me/+94704417542" target="blank"><img align="center"
-         src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <br>
-    </p>
-
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vinilvidushanka&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vinilvidushanka&theme=tokyonight&hide_border=true"/>
 </p>
-<br>
-<br>
-
-## 🛠️ My Skills
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=2ED573&width=200&lines=Languages+and+Tools%3A)](https://git.io/typing-svg)
-
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>&nbsp;&nbsp;&nbsp; </a>
-<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="slack" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
-<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=github" alt="slack" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
-<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=css" alt="slack" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
-<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=jquery" alt="slack" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
-<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=js" alt="slack" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
-<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=java" alt="slack" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
-<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=php" alt="slack" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
-<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=laravel" alt="slack" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
-<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=html" alt="slack" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
-  <a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
-<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=hibernate" alt="hibernate" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a>
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=2ED573&width=150&lines=My+Tool%3A)](https://git.io/typing-svg)
-
-<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
-<a href="https://gluonhq.com/products/scene-builder/" target="_blank"> <img src="https://i2.wp.com/gluonhq.com/wp-content/uploads/2015/02/SceneBuilderLogo.png?fit=781%2C781&ssl=1" width="50" height="50"/>&nbsp;&nbsp;&nbsp;</a>
-<a href="https://www.google.com/chrome" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original-wordmark.svg" alt="chrome" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
-<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
-<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
-<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
-<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
-<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=py" alt="py" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
-<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
-<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
-<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=hibernate" alt="hibernate" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
-<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=idea" alt="idea" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
-<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=ps" alt="ps" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
-
-
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5000&color=2ED573&width=600&lines=-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+)](https://git.io/typing-svg)
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinilvidushanka&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="vinilvidushanka" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinilvidushanka&show_icons=true&locale=en&theme=tokyonight" alt="vinilvidushanka" /></p>
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vinilvidushanka&theme=tokyonight" />
-
-#
-
-![footer](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/footer.webp)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinilvidushanka&theme=react-dark&hide_border=false&area=true"/>
 </p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/vinil-vidushanka">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:vidushankav@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/94704417542">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+</p>
+
+<!-- Neon Footer -->
+<p align="center">
+  <!-- <img src="https://i.imgur.com/OK8VqZb.gif" width="800"/> -->
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="800"/>
+</p>
+
+
